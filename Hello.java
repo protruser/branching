@@ -8,9 +8,4 @@ public class Hello {
   private static int sum(int a, int b) {
     return a + b;
   }
-
-  private static int sum(int a, int b) {
-    // todo: finish this function
-    return 0;
-  }
 }
