@@ -8,4 +8,11 @@ public class Hello {
   private static int sum(int a, int b) {
     return a + b;
   }
+<<<<<<< HEAD
+=======
+
+  private static int sum(int a, int b) {
+    return a - b;
+  }
+>>>>>>> iss53
 }
